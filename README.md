@@ -13,7 +13,12 @@ LDFLAGS="-lm -lcompiler_rt" pip install jupyter &&
 ```
 *Press `y` and Enter when promoted*\
 
-*Optional*
+If you get message that `pip` needs upgrade run this 
+```
+/data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip
+```
+
+*(Optional)*
 Usefull packages that works well with Jupyter
 ```
 LDFLAGS="-lm -lcompiler_rt" pip install numpy matplotlib
