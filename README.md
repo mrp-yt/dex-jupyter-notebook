@@ -9,7 +9,7 @@ pkg upgrade -y
 After upgrade run 
 ```
 apt install clang python fftw libzmq freetype libpng pkg-config libcrypt &&
-LDFLAGS="-lm -lcompiler_rt" pip install jupyter &&
+LDFLAGS="-lm -lcompiler_rt" pip install jupyter
 ```
 *Press `y` and Enter when promoted*\
 
