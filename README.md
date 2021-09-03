@@ -24,3 +24,6 @@ jupyter notebook
 You will be presented with the link that you need copy/paste into your browser to access Jupyter Notebook
 
 To close Jupyter Notebook press `Quit` button inside Jupyter WEB UI or inside Termux press `ctrl + c`
+
+### Changelog
+* 03-09-2021 - Guide Created
