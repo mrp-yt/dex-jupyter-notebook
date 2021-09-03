@@ -23,4 +23,8 @@ Usefull packages that works well with Jupyter
 ```
 LDFLAGS="-lm -lcompiler_rt" pip install numpy matplotlib
 ```
-
+To start Jupyter Notebook run
+```
+jupyter notebook
+```
+You will be presented with the link that you need copy/paste into your browser to access Jupyter Notebook
