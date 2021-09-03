@@ -1,1 +1,1 @@
-# dex-jupyter-notebook
+# Run Jupyter Notebook on DeX (w/ Termux)
